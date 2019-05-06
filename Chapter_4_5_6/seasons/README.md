@@ -4,3 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Chapter 4 - Structuring Apps with Class Based Components
 Chapter 5 - State in React Components
+Chapter 6 - Understanding Lifecycle Methods
