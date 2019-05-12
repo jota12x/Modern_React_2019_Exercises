@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Chapter 7 - Handling User Input with Forms and Events
 
+* onChange event
+* Controlled vs Uncontrolled components
+
 Chapter 8 - Making API Requests with React :
 
 * Usage of Unsplash API and axios  
