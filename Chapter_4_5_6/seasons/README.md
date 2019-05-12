@@ -13,8 +13,8 @@ The project was to create an applicationt which shows the current hemisphere of 
 
 ## Chapters
 
-Chapter 4 - Structuring Apps with Class Based Components
+* Chapter 4 - Structuring Apps with Class Based Components
 
-Chapter 5 - State in React Components
+* Chapter 5 - State in React Components
 
-Chapter 6 - Understanding Lifecycle Methods
+* Chapter 6 - Understanding Lifecycle Methods
