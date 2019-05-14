@@ -27,7 +27,9 @@ class App extends React.Component{
     });
     console.log(response.data.items);
     this.setState({
-      videos:response.data.items
+      videos:response.data.items,
+      currentVideo:response.data.items[0].snippet,
+      currentId:response.data.items[0].id.videoId
     });
   }
 

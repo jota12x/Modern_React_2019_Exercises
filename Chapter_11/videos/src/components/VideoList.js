@@ -5,7 +5,7 @@ class VideoList extends Component{
   render() {
     return (
       <div className="video_list ui relaxed divided list" style={{display:'flex',flexDirection:'column',padding:'10px',
-        justifyContent:'center',alignItems:'center', borderLeft:'1px dotted #000'}}>
+        justifyContent:'center',alignItems:'center'}}>
         {
           this.props.videos.map(
             video=>(

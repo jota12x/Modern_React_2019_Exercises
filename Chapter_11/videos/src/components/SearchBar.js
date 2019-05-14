@@ -26,7 +26,7 @@ class SearchBar extends Component{
     return (
       <div className="ui segment">
         <form action="" onSubmit={this.onSearchKey} className="ui form">
-          <div className="ui field focus" style={{width:'300px'}}>
+          <div className="ui field focus">
               <label htmlFor="search_input">Search Bar</label>
               <input type="text" placeholder="Search video..."
                 name="search_input" className="search_input ui input"
