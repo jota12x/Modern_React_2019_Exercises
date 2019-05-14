@@ -7,16 +7,19 @@
 5. Chapter 7 - Handling User Input with Forms and Events
   * onChange event
   * Controlled vs Uncontrolled components
-  
+
 6. Chapter 8 - Making API Requests with React :
   * Usage of Unsplash API and axios  
   * Advantage of using axios over fetch
-  
+
 7. Chapter 9 - Building Lists of Records:
   * Usage of map for printing list of items in React  
   * Key property's meaning
-  
+
 8. Chapter 10 - Using REFs for DOM access:
   * React refs   
   * Image Load event handler
 
+9. Chapter 11 - Let's tests your React Mastery!
+  * Youtube API
+  * Practice of all the topics until Chapter 10
