@@ -23,3 +23,8 @@
 9. Chapter 11 - Let's tests your React Mastery!
   * Youtube API
   * Practice of all the topics until Chapter 10
+
+10. Chapter 12 - Redux
+  https://codepen.io/jota12x/pen/KEezLM
+
+11. Chapter 13 - React and Redux
