@@ -30,5 +30,6 @@
 11. Chapter 13 - React and Redux
 12. Chapter 14,15
   * What is Redux thunk?
-  * What are the rules of reducers
+  * What are the rules of reducers?
+  * How to design a complex Redux store?
   * Why lodash library is so useful in development?
