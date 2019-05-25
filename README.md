@@ -28,3 +28,7 @@
   https://codepen.io/jota12x/pen/KEezLM
 
 11. Chapter 13 - React and Redux
+12. Chapter 14,15
+  * What is Redux thunk?
+  * What are the rules of reducers
+  * Why lodash library is so useful in development?
