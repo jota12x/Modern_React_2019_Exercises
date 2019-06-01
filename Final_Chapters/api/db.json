@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "first stream",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "Here is some stream",
+      "id": 2
+    },
+    {
+      "title": "Hello",
+      "description": "I love this product so much",
+      "id": 3
+    },
+    {
+      "title": "Four to go",
+      "description": "Here we go again now",
+      "userId": "106390070170137038803",
+      "id": 4
+    }
+  ]
+}

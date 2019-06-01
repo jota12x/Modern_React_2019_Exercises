@@ -33,3 +33,10 @@
   * What are the rules of reducers?
   * How to design a complex Redux store?
   * Why lodash library is so useful in development?
+
+13. Chapter 15 to 22:
+  * How to setup an streaming server?
+  * How to setup authentication with Google Auth
+  * How to use the "json server" library to create backend services faster.
+  * What are REST conventions and how can we implement them?
+  * What is the history object and why is important for programmatic navigation?
