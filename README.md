@@ -40,3 +40,10 @@
   * How to use the "json server" library to create backend services faster.
   * What are REST conventions and how can we implement them?
   * What is the history object and why is important for programmatic navigation?
+
+14. Chapter 23 and 24:
+  * What is the React Context System?
+  * What is the difference between React Context and Redux?
+  * Who is better? React Context or Redux?
+  * What are Providers and Consumers?
+  
