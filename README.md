@@ -1,4 +1,4 @@
-# Modern_React_2019_My_Exercises
+# Modern_React_2019_Exercises
 
 1. Chapter 3 - Communicating with props : Create a comment section using Semantic UI and React.
 2. Chapter 4 - Structuring Apps with Class Based Components.
@@ -47,3 +47,7 @@
   * Who is better? React Context or Redux?
   * What are Providers and Consumers?
   
+15. Chapter 25 and 26:
+  * What are React Hooks?
+  * How do you use useEffect and useState functions?
+  * What is the advantage of using React Hooks?
